@@ -250,5 +250,5 @@ int main()
 ```
 ## Appendix
 
-Inspird from `Code With Mosh`
+Inspired from `Code With Mosh`
 
